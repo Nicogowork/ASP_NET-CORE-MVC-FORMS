@@ -88,18 +88,7 @@ public IActionResult Form_3(Cliente cliente)
 
 ---
 
-## 🖼️ Demonstração
 
-### Página Inicial
-![Home Page](https://via.placeholder.com/800x400/0d6efd/ffffff?text=Página+Inicial+com+3+Cards)
-
-### Form 3 - Model Binding com Validação
-![Form 3](https://via.placeholder.com/800x400/dc3545/ffffff?text=Formulário+com+Validação)
-
-### Dados Recebidos
-![Dados Recebidos](https://via.placeholder.com/800x400/198754/ffffff?text=Dados+Recebidos+com+Sucesso)
-
----
 
 ## 🚀 Instalação
 
