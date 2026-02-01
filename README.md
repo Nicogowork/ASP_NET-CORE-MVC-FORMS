@@ -353,26 +353,6 @@ else
 
 ---
 
-## 🚦 Como Contribuir
-
-Contribuições são bem-vindas! Siga estes passos:
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/NovaFuncionalidade`)
-3. **Commit** suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. **Push** para a branch (`git push origin feature/NovaFuncionalidade`)
-5. Abra um **Pull Request**
-
-### Diretrizes
-
-- Mantenha o código limpo e comentado
-- Siga os padrões de código C#
-- Teste suas alterações antes de submeter
-- Atualize a documentação se necessário
-
----
-
-## 📝 Roadmap
 
 ### Funcionalidades Futuras
 
@@ -387,36 +367,13 @@ Contribuições são bem-vindas! Siga estes passos:
 
 ---
 
-## 🐛 Problemas Conhecidos
-
-Atualmente não há problemas conhecidos. Se encontrar algum bug, por favor [abra uma issue](https://github.com/seu-usuario/asp-net-core-forms/issues).
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-```
-MIT License
-
-Copyright (c) 2024
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
 
 ## 👨‍💻 Autor
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@example.com
-
+- GitHub: [Nicogowork](https://github.com/seu-usuario](https://github.com/Nicogowork)
+  
 ---
 
 ## 🙏 Agradecimentos
@@ -428,15 +385,6 @@ in the Software without restriction...
 
 ---
 
-## 📞 Suporte
-
-Se precisar de ajuda:
-
-1. Consulte a [documentação oficial ASP.NET Core](https://docs.microsoft.com/aspnet/core)
-2. Abra uma [issue](https://github.com/seu-usuario/asp-net-core-forms/issues)
-3. Entre em contato via email
-
----
 
 ## 🌟 Se Gostou do Projeto
 
